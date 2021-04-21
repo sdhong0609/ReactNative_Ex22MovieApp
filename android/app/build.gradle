@@ -131,7 +131,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.ex22movieapp"
+        applicationId "com.hong_studio.ex22movieapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

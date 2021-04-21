@@ -1,4 +1,4 @@
-package com.ex22movieapp;
+package com.hong_studio.ex22movieapp;
 
 import com.facebook.react.ReactActivity;
 
